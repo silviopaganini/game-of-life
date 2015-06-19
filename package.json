@@ -1,6 +1,6 @@
 {
   "name": "gof-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Browserify module of Conway's Game of Life passing only an array, size and steps, returns array with marked objects",
   "main": "index.js",
   "scripts": {
