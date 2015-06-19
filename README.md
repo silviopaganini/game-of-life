@@ -32,6 +32,6 @@ function update()
 
 ```
 
-![image](http://labs.fluuu.id/iso/gof.jpg =400x)
+![image](http://labs.fluuu.id/iso/gof.jpg)
 
 [Live Demo](http://labs.fluuu.id/iso)
